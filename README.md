@@ -1,10 +1,3 @@
-# TheNinjaGame
-End work for basics of programming language course from my first school year. (2013)
-
-Santeri Hetekivi Harjoitustyö 1 / 1  
-13I220B Ohjelmointikielet, perusteet 5.11.  
-1202466 OJ 5G00BM  
-
 ## The Ninja Game
 
 The Ninja Game on hyvin yksinkertainen komentorivillä toimiva roguelike-peli.
